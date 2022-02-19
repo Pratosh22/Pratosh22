@@ -26,7 +26,6 @@ Finally Figured out how to use github's readme!
 
 ![Pratosh's github stats](https://github-readme-stats.vercel.app/api?username=Pratosh22&show_icons=true&theme=tokyonight)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratosh22&show_icons=true&hide_border=true" />
 
 ![Pratosh's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratosh22&theme=radical&include_all_commits=true&count_private=true)
 
