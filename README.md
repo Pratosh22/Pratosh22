@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![1](https://github.com/Pratosh22/Pratosh22/blob/main/github-gif.gif)
 
 Finally Figured out how to use github's readme!
