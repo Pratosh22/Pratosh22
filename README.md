@@ -1,4 +1,4 @@
-![1](https://github.com/Pratosh22/Pratosh22/blob/main/this-is-gonna-be-good-this-is-exciting.gif)
+![1](https://github.com/Pratosh22/Pratosh22/blob/main/github-gif.gif)
 
 Finally Figured out how to use github's readme!
 
