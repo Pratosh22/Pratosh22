@@ -27,7 +27,3 @@ Building at **SparrowDesk** since 2024:
 ### Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/pratosh22/) &nbsp;·&nbsp; [pradosh.balaji@gmail.com](mailto:pradosh.balaji@gmail.com)
-
----
-
-<sub>Chennai</sub>
